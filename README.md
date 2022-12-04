@@ -14,3 +14,7 @@
 -> the backEnd should also call the otp() function from the deployed Contract
 -> finally, user who recieved the OTP can call the verify() function with said OTP
 ```
+
+
+Contracts Deployed on Polygon: https://mumbai.polygonscan.com/address/0x31c3f08159bb98261b36421bcddb6bf83b6c5c56#code
+ZkEVM Deployed on Polygon: https://explorer.public.zkevm-test.net/address/0x0dF279766C3E235dFcDc05a4bC36F35A97c15B69/contracts#address-tabs
